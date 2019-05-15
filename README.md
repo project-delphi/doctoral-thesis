@@ -1,4 +1,4 @@
-![](oxford_university_circlet.svg)
+![](oxford_university_circlet.png)
 
 # Doctor of Philosophy Thesis
 
