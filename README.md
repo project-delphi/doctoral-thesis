@@ -12,7 +12,7 @@ Awarding Body: [University of Oxford](http://www.ox.ac.uk/)
 
 Faculty: [Oxford Mathetmatical Sciences](https://www.maths.ox.ac.uk/)
 
-Department: [Department of Statistics]( Oxford’s Mathematical Sciences) 
+Department: [Department of Statistics](https://www.stats.ox.ac.uk/) 
 
 Supervisor: [Professor Brian D. Ripley](http://www.stats.ox.ac.uk/~ripley/) and his [wikipedia entry](https://en.wikipedia.org/wiki/Brian_D._Ripley) 
 
