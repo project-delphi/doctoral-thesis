@@ -12,11 +12,11 @@ Awarding Body: [University of Oxford](http://www.ox.ac.uk/)
 
 Faculty: [Oxford Mathetmatical Sciences](https://www.maths.ox.ac.uk/)
 
-Department: [Department of Statistics](https://www.stats.ox.ac.uk/) 
+Sub Faculty: [Department of Statistics](https://www.stats.ox.ac.uk/) 
 
 Supervisor: [Professor Brian D. Ripley](http://www.stats.ox.ac.uk/~ripley/) and his [wikipedia entry](https://en.wikipedia.org/wiki/Brian_D._Ripley) 
 
-PhD Committee: [Professor Jonathan Marchini](https://jmarchini.org/), [Professor Nicholas Meinhausen](https://stat.ethz.ch/~nicolai/), [Professor Geoff Nicholls](http://www.stats.ox.ac.uk/~nicholls/), [Professor Charles Taylor](https://physicalsciences.leeds.ac.uk/staff/84/professor-charles-taylor)
+PhD Committee: [Professor Jonathan Marchini](https://jmarchini.org/), [Professor Nicholas Meinhausen](https://stat.ethz.ch/~nicolai/), [Professor Geoff Nicholls](http://www.stats.ox.ac.uk/~nicholls/) and [Professor Charles Taylor](https://physicalsciences.leeds.ac.uk/staff/84/professor-charles-taylor)
 
 ## Abstract
 
